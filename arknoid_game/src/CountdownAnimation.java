@@ -1,8 +1,7 @@
 import biuoop.DrawSurface;
 import java.awt.Color;
 /**
- * @author [marah mahajne][marahmahajne68@gmail.com][209107234]
- * @version 1
+ * @author [marah mahajne][marahmahajne68@gmail.com]
  * @since 2021-06-17
  */
 public class CountdownAnimation implements Animation {

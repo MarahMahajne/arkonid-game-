@@ -4,7 +4,7 @@ import java.awt.Color;
 import java.util.List;
 import java.util.ArrayList;
 /**
- * @author [marah mahajne][marahmahajne68@gmail.com][209107234]
+ * @author [marah mahajne][marahmahajne68@gmail.com]
  * @version 4
  * @since 2021-06-17
  */

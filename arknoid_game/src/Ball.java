@@ -1,6 +1,6 @@
 import biuoop.DrawSurface;
 /**
- * @author [marah mahajne][marahmahajne68@gmail.com][209107234]
+ * @author [marah mahajne][marahmahajne68@gmail.com]
  * @version 2
  * @since 2021-06-06
  */

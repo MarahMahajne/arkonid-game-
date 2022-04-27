@@ -1,7 +1,7 @@
 import biuoop.KeyboardSensor;
 import biuoop.DrawSurface;
 /**
- * @author [marah mahajne][marahmahajne68@gmail.com][209107234]
+ * @author [marah mahajne][marahmahajne68@gmail.com]
  * @version 1
  * @since 2021-21-06
  */

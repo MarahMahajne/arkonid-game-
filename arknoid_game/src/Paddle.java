@@ -3,7 +3,7 @@ import biuoop.GUI;
 import biuoop.KeyboardSensor;
 import java.awt.Color;
 /**
- * @author [marah mahajne][marahmahajne68@gmail.com][209107234]
+ * @author [marah mahajne][marahmahajne68@gmail.com]
  * @version 1
  * @since 2021-06-21
  */
